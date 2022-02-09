@@ -4,12 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace certificacao_csharp_roteiro.antes
-{
-    class Booleanos : IAulaItem
-    {
-        public void Executar()
-        {
+namespace Certificacao_CSharp_Programming {
+    class Program {
+        static void Main(string[] args) {
         }
     }
 }
